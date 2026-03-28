@@ -65,13 +65,7 @@ Learning Outcomes
  Real-world use of Git
 
 Repository Structure
-  oss-audit-24BCE10805/
-□^t^b□^t^`□^t^` script1.sh
-□^t^b□^t^`□^t^` script2.sh
-□^t^b□^t^`□^t^` script3.sh
-□^t^b□^t^`□^t^` script4.sh
-□^t^b□^t^`□^t^` script5.sh
-□^t^b□^t^`□^t^` README.md
+  oss-audit-24BCE10805/ │── script1.sh │── script2.sh │── script3.sh │── script4.sh │── script5.sh │── README.md
 
 Conclusion
 This project provides both theoretical and practical knowledge of open-source softw>
