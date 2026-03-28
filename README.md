@@ -8,7 +8,7 @@
  -**Category:** Version Control System
  
  -**License:** GNU General Public License v2 (GPL v2)
----
+ ---
 Project Description
 
  This project is a comprehensive audit of the open-source software Git. It explores>
