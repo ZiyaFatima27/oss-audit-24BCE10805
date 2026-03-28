@@ -68,7 +68,7 @@ cd oss-audit
   ```
 
 ## Requirements
-- **Linux Environment(Ubuntu/WSL recommended)
+- Linux Environment(Ubuntu/WSL recommended)
 Git installed 
 Basic command-line knowledge
 
