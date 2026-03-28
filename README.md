@@ -68,27 +68,19 @@ cd oss-audit
   ```
 
 ## Requirements
-
 Linux Environment(Ubuntu/WSL recommended)
- 
- Git installed
- 
- Basic command-line knowledge
+Git installed 
+Basic command-line knowledge
 
-Learning Outcomes
-
+## Learning Outcomes
  Understanding open-source philosophy
- 
  Knowledge of software licensing(GPL)
- 
  Hands -on experiencewith Linux
- 
  Shell scripting fundamentals
- 
  Real-world use of Git
 
-Repository Structure
- 
+## Repository Structure
+ ```bash
   oss-audit-24BCE10805/ 
   │── script1.sh 
   │── script2.sh 
@@ -96,11 +88,14 @@ Repository Structure
   │── script4.sh 
   │── script5.sh 
   │── README.md
+```
 
-Conclusion
+## Conclusion
 
 This project provides both theoretical and practical knowledge of open-source softw>
-Author
+
+
+## Author
  Name : Ziya Fatima
  Registration number : 24BCE10805
 
