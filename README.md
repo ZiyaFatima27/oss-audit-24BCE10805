@@ -31,53 +31,85 @@ Scripts Included
     
 
  Script 2 - FOSS Pacage Inspector
+ 
   Checks if Git is installed
+  
   Displays version and description
+  
   Uses conditional statements and case structure
+  
 
  Script 3 - Disk and Permission Auditor
+  
   Audits important system directories
+ 
   Displays permissions, ownership, and size
+  
   Checks Git configuration file
 
  Script 4 - Log File Analyzer
+ 
   Reads a log file
+  
   Counts occurences of a keyword(default: error)
+  
   Displays last 5 matching lines
 
   Script 5 - Open Source Manifesto Generator
+  
   Takes user input
+  
   Generates a personalized open-source manifesto
+  
   Saves output to a text file
+  
 
 How to Run the Scripts
- 1. Open Linux terminal(WSL/Ubuntu)
+
+ 1. Open Linux terminal(WSL/Ubuntu
+ 
  2. Navigate to project directory:
+
     cd oss-audit
 
- 3. Make scripts executable:
+ 4. Make scripts executable:
+
     chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
- 4. Run scripts:
+ 6. Run scripts:
+
     ./script1.sh
+
     ./script2.sh
+
     ./script3.sh
+
     ./script4.sh
+
     ./script5.sh
 
 Requirements
+
  Linux Environment(Ubuntu/WSL recommended)
+ 
  Git installed
+ 
  Basic command-line knowledge
 
 Learning Outcomes
+
  Understanding open-source philosophy
+ 
  Knowledge of software licensing(GPL)
+ 
  Hands -on experiencewith Linux
+ 
  Shell scripting fundamentals
+ 
  Real-world use of Git
 
 Repository Structure
+ 
   oss-audit-24BCE10805/ 
   │── script1.sh 
   │── script2.sh 
@@ -87,6 +119,7 @@ Repository Structure
   │── README.md
 
 Conclusion
+
 This project provides both theoretical and practical knowledge of open-source softw>
 Author
  Name : Ziya Fatima
