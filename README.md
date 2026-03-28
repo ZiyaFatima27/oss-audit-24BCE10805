@@ -3,9 +3,9 @@
 
 ## Chosen Software
 
- -**Software: **Git
+ Software: Git
  
--** Category: **Version Control System
+ Category: Version Control System
  
  -**License:** GNU General Public License v2 (GPL v2)
 ---
