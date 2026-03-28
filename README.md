@@ -3,12 +3,12 @@
 
 ## Chosen Software
 
- Software: Git
+ -**Software: **Git
  
- Category: Version Control System
+-** Category: **Version Control System
  
- License: GNU General Public License v2 (GPL v2)
-
+ -**License:** GNU General Public License v2 (GPL v2)
+---
 Project Description
 
  This project is a comprehensive audit of the open-source software Git. It explores>
