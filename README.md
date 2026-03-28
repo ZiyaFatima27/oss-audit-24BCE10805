@@ -18,10 +18,15 @@ Scripts Included
  Scrit 1 - System Identify Report
   
   Displays system information such as:
+    
     Linux distribution
+    
     Kernel version
+    
     Current user
+    
     System uptime
+    
     Date and time
     
 
