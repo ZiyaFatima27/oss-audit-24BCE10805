@@ -92,7 +92,7 @@ cd oss-audit
 
 ## Conclusion
 
-This project provides both theoretical and practical knowledge of open-source softw>
+This project provides both theoretical and practical knowledge of open-source software using Git as a case study. It emphasizes collaboration, transparency, and automation, which are key principles in modern software development.
 
 
 ## Author
