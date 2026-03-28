@@ -2,20 +2,28 @@
 Open Source Audit Project --Git
 
 Chosen Software
+
  Software: Git
+ 
  Category: Version Control System
+ 
  License: GNU General Public License v2 (GPL v2)
 
 Project Description
+
  This project is a comprehensive audit of the open-source software Git. It explores>
+
 Scripts Included
+
  Scrit 1 - System Identify Report
+  
   Displays system information such as:
     Linux distribution
     Kernel version
     Current user
     System uptime
     Date and time
+    
 
  Script 2 - FOSS Pacage Inspector
   Checks if Git is installed
