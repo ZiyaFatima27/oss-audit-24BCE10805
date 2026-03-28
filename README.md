@@ -2,11 +2,8 @@
 Open Source Audit Project --Git
 
 Chosen Software
- 
  Software: Git
- 
  Category: Version Control System
- 
  License: GNU General Public License v2 (GPL v2)
 
 Project Description
