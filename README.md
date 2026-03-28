@@ -9,11 +9,13 @@
  
  -**License:** GNU General Public License v2 (GPL v2)
  ---
-Project Description
+## Project Description
 
  This project is a comprehensive audit of the open-source software Git. It explores>
 
-Scripts Included
+---
+
+## Scripts Included
 
  Scrit 1 - System Identify Report
   
